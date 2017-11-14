@@ -9,8 +9,11 @@ body {
 }
 
 .top-section {
+  padding: 50px;
   min-height: 50px;
   background: #00695C;
+  color: #fff;
+  font-style: italic; 
   font-family: 'Anton', sans-serif;
 }
 
