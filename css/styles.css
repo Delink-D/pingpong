@@ -18,9 +18,17 @@ body {
 }
 
 .left-section {
-  min-height: 100px;
+  color: #f4f4f4;
+  padding: 20px;
+  min-height: 450px!important;
   background: #009688
 }
+  .left-section h5 {
+    color: #CDDC39;
+  }
+  .left-section p a {
+    color: #004D40;
+  }
 
 .main-section {
   min-height: 100px;
