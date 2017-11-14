@@ -1,0 +1,21 @@
+body {
+	background: #f5f5f5;
+}
+.padding0 {
+	padding: 0!important;
+}
+
+.top-section {
+	min-height: 50px;
+	background: #00695C;
+}
+
+.left-section {
+	min-height: 100px;
+	background: #009688
+}
+
+.main-section {
+	min-height: 100px;
+	background: #B2DFDB;
+}
